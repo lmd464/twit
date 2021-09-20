@@ -5,8 +5,8 @@ import sys
 # 인증
 
 # 인증을 위한 메소드를 포함하는 OAuthHandler 인스턴스
-consumer_key = "TtOggJ9XSfza8fT2M3feTJxNC"
-consumer_secret = "iRQakh5SEkbGhQ8OxmnRa29ikC4tzltoYdbLmApjXKrXT8fyzp"
+consumer_key = ""
+consumer_secret = ""
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 
 
